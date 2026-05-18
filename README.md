@@ -1,76 +1,75 @@
 <h1 align="center">Hey 👋, I'm Saurav Kumar Jha</h1>
-<h3 align="center">🚀 Full Stack Developer | Software Engineer | Flutter & Web Enthusiast</h3>
+
+<h3 align="center">
+🚀 Full Stack Developer | Flutter Developer | React & Node.js Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Flutter+%7C+React+%7C+Node.js;Building+Scalable+Apps;Passionate+About+Clean+UI+%26+Backend+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Flutter+App+Developer;React+%7C+Node.js+%7C+Firebase;Clean+Code+%7C+Scalable+Systems;Always+Learning+New+Tech" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🌌 About Me
 
-- 🔭 Currently working on **Flutter & Full Stack Projects**
-- 🌱 Learning **Advanced Backend Architecture & System Design**
-- 💡 Passionate about **Mobile Apps, Web Apps & Real-time Systems**
-- ⚡ Love building modern, scalable, and user-friendly applications
-- 🎯 Goal: Becoming a top-tier Software Engineer
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- ⚡ Building **modern full-stack & mobile apps**
+- 🚀 Passionate about **real-time systems & scalable backend**
+- 📱 Flutter + Web development lover
+- 🧠 Always learning **system design & advanced backend**
+- 🎯 Goal: Become a **top-tier software engineer**
+
+<br/>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.facebook.com/himanshu.jha.167189?rdid=Hf3RZrzWcYqruYZh&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19UT7ZQdFh%2F#" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<p align="center">
+
+<a href="https://facebook.com/yourprofile">
+<img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/sauravjha.me?igsh=MWFlazM1cmRnbWF0NQ%3D%3D" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/yourprofile">
+<img src="https://img.shields.io/badge/Instagram-ff0066?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourusername" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/yourusername">
+<img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-# 💻 Tech Stack
+## ⚡ Tech Stack
 
-### 🚀 Languages
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+<p align="center">
 
-### 🎨 Frontend Development
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</p>
+### Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,dart,js,ts"/>
 
-### ⚙️ Backend & Database
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+### Frontend
+<img src="https://skillicons.dev/icons?i=flutter,react,html,css"/>
+
+### Backend & Tools
+<img src="https://skillicons.dev/icons?i=nodejs,php,firebase,git,github"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
 ---
@@ -78,19 +77,37 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-## ✨ Quote
+## 📈 Activity Graph
 
 <p align="center">
-  <i>"Code. Build. Learn. Repeat."</i>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
+## ✨ Dev Quote
+
 <p align="center">
-  ⭐ From <a href="https://github.com/YOUR_USERNAME">Saurav Kumar Jha</a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+## 🚀 Closing
+
+<p align="center">
+<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
+</p>
+
+<p align="center">
+🔥 <b>Code. Build. Scale. Repeat.</b> 🔥
+</p>
+
+<p align="center">
+⭐ From <a href="https://github.com/YOUR_USERNAME">Saurav Kumar Jha</a>
 </p>
