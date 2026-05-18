@@ -32,11 +32,11 @@
 <img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/yourprofile">
+<a href="https://instagram.com/sauravjha.me">
 <img src="https://img.shields.io/badge/Instagram-ff0066?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://linkedin.com/in/sauravjha491">
 <img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -64,12 +64,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sauravjha491&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravjha491&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravjha491&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sauravjha491&theme=matrix&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -85,7 +85,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sauravjha491&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
@@ -109,5 +109,5 @@
 </p>
 
 <p align="center">
-⭐ From <a href="https://github.com/YOUR_USERNAME">Saurav Kumar Jha</a>
+⭐ From <a href="https://github.com/sauravjha491">Saurav Kumar Jha</a>
 </p>
